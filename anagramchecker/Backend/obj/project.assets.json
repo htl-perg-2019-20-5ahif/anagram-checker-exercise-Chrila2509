@@ -93,9 +93,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Dictionary.csproj",
-      "projectName": "Dictionary",
-      "projectPath": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Dictionary.csproj",
+      "projectUniqueName": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Backend.csproj",
+      "projectName": "Backend",
+      "projectPath": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Besitzer\\.nuget\\packages\\",
       "outputPath": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\obj\\",
       "projectStyle": "PackageReference",

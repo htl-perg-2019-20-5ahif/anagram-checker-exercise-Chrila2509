@@ -14,6 +14,10 @@ namespace Dictionary
         private ILogger logger;
         private IConfiguration config;
 
+        public Reader()
+        {
+        }
+
         public Reader(IConfiguration config, ILogger<Reader> logger)
         {
             this.config = config;

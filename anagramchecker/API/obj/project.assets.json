@@ -32,7 +32,7 @@
           "lib/netcoreapp3.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
-      "Dictionary/1.0.0": {
+      "Backend/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -40,10 +40,10 @@
           "Microsoft.Extensions.Logging.Abstractions": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Dictionary.dll": {}
+          "bin/placeholder/Backend.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Dictionary.dll": {}
+          "bin/placeholder/Backend.dll": {}
         }
       }
     }
@@ -92,15 +92,15 @@
         "microsoft.extensions.primitives.nuspec"
       ]
     },
-    "Dictionary/1.0.0": {
+    "Backend/1.0.0": {
       "type": "project",
-      "path": "../Backend/Dictionary.csproj",
-      "msbuildProject": "../Backend/Dictionary.csproj"
+      "path": "../Backend/Backend.csproj",
+      "msbuildProject": "../Backend/Backend.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Dictionary >= 1.0.0"
+      "Backend >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -136,8 +136,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Dictionary.csproj": {
-              "projectPath": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Dictionary.csproj"
+            "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Backend.csproj": {
+              "projectPath": "D:\\HTL Perg\\2019 - 2020\\C#\\_homework\\01_anagramChecker\\anagram-checker\\anagramchecker\\Backend\\Backend.csproj"
             }
           }
         }

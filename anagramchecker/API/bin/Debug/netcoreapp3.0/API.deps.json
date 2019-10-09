@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v3.0": {
       "API/1.0.0": {
         "dependencies": {
-          "Dictionary": "1.0.0",
+          "Backend": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.0.0.0",
@@ -322,16 +322,16 @@
       },
       "Microsoft.Extensions.Logging.Abstractions/3.0.0": {},
       "Microsoft.Extensions.Primitives/3.0.0": {},
-      "Dictionary/1.0.0": {
+      "Backend/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "3.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.0.0"
         },
         "runtime": {
-          "Dictionary.dll": {}
+          "Backend.dll": {}
         },
         "compile": {
-          "Dictionary.dll": {}
+          "Backend.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.0.0.0": {
@@ -2055,7 +2055,7 @@
       "path": "microsoft.extensions.primitives/3.0.0",
       "hashPath": "microsoft.extensions.primitives.3.0.0.nupkg.sha512"
     },
-    "Dictionary/1.0.0": {
+    "Backend/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

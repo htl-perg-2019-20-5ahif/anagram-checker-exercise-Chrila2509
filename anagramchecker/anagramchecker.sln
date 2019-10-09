@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Backend\Dictionary.csproj", "{A1D577A1-FACF-4126-9F75-251023F24F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backend", "Backend\Backend.csproj", "{A1D577A1-FACF-4126-9F75-251023F24F9C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramChecker", "anagramChecker\AnagramChecker.csproj", "{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}"
 EndProject

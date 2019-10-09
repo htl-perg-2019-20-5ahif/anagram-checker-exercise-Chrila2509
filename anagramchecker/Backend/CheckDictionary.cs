@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Dictionary
 {
-    class CheckDictionary
+    public class CheckDictionary : ICheckDictionary
     {
         IReader reader;
         private readonly ILogger logger;
@@ -18,7 +18,11 @@ namespace Dictionary
             this.logger = logger;
         }
 
-        IEnumerable<string> GetAnagrams(String wordToCheck, IEnumerable<string> dictionaryWords)
+        public CheckDictionary()
+        {
+        }
+
+        IEnumerable<string> ICheckDictionary.GetAnagrams(String wordToCheck, IEnumerable<string> dictionaryWords)
         {
             var result = new List<string>();
             var sortedWordToCheck = String.Concat(wordToCheck.ToLower().OrderBy(c => c));

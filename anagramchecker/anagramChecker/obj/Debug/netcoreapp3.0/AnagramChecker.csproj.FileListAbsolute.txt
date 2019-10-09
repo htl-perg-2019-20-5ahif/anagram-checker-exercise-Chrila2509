@@ -1,0 +1,3 @@
+D:\HTL Perg\2019 - 2020\C#\_homework\01_anagramChecker\anagram-checker\anagramchecker\anagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.csprojAssemblyReference.cache
+D:\HTL Perg\2019 - 2020\C#\_homework\01_anagramChecker\anagram-checker\anagramchecker\anagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfoInputs.cache
+D:\HTL Perg\2019 - 2020\C#\_homework\01_anagramChecker\anagram-checker\anagramchecker\anagramChecker\obj\Debug\netcoreapp3.0\AnagramChecker.AssemblyInfo.cs

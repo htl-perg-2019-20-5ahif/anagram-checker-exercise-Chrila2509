@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Backend\Dictionary.csproj" />
+    <ProjectReference Include="..\Backend\Backend.csproj" />
   </ItemGroup>
 
 </Project>
