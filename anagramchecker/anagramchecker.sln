@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Backend\Dictionary.csproj", "{A1D577A1-FACF-4126-9F75-251023F24F9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramChecker", "anagramChecker\AnagramChecker.csproj", "{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E17AE4-74DC-42E2-A4D4-FE00A98E09C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D577A1-FACF-4126-9F75-251023F24F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D577A1-FACF-4126-9F75-251023F24F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D577A1-FACF-4126-9F75-251023F24F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D577A1-FACF-4126-9F75-251023F24F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0F0E82-AF2F-418A-BF28-16D0AC24B67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DE1A9B-AF0C-45D3-9C07-8E01A893AA93}
+	EndGlobalSection
+EndGlobal
